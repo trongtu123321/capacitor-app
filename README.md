@@ -21,8 +21,9 @@
 git clone https://github.com/trongtu123321/capacitor-app.git
 ```
 
-2 npm run build
-3 npx cap sync
-4 npx cap copy
-5 npx cap open android
-6 npx cap run android
+2 npm install @capacitor/local-notifications @capacitor/share @capacitor/camera @capacitor/filesystem @capacitor/preferences @capacitor/network
+3 npm run build
+4 npx cap sync
+5 npx cap copy
+6 npx cap open android
+7 npx cap run android
